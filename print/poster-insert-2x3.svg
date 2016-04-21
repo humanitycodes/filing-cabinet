@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -658,33 +658,25 @@
        xml:space="preserve"
        id="flowRoot4260"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(100,20)"><flowRegion
+       transform="translate(6,18)"><flowRegion
          id="flowRegion4262"><rect
            id="rect4264"
-           width="1295.0077"
+           width="1567.902"
            height="1295.0077"
            x="69.464012"
            y="1081.6539" /></flowRegion><flowPara
-         id="flowPara4266"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:200%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px">Learn on your schedule</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:200%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
-         id="flowPara4300">Professionals as mentors</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:200%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
-         id="flowPara4298">Self-guided lessons</flowPara><flowPara
-         id="flowPara4268"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:200%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px">Practical projects</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:200%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
-         id="flowPara4284">Fast feedback</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:200%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
-         id="flowPara4274">Personalized education</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:200%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
-         id="flowPara4292">Test- and grade-free</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:200%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
-         id="flowPara4325">No experience required</flowPara><flowPara
-         id="flowPara4272"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:200%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:200%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
-         id="flowPara4280" /></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:250%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
+         id="flowPara4280">Learn at home and at our lab</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:250%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
+         id="flowPara4426">Mentoring from local pros</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:250%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
+         id="flowPara4438">Self-paced, self-guided learning</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:250%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
+         id="flowPara4416">Personal projects encouraged</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:250%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
+         id="flowPara4442">Build a software portfolio</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:250%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:3px;word-spacing:10px"
+         id="flowPara4414">No experience required</flowPara></flowRoot>  </g>
   <style
      id="style3"
      type="text/css">
